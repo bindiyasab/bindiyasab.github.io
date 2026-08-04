@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bindiya Sab | Data Analyst Portfolio</title>
+    <style>
+        * {margin: 0; padding: 0; box-sizing: border-box; font-family: 'Segoe UI', Arial, sans-serif;}
+        body {background: #f4f7f9; color: #333; line-height: 1.6;}
+        .container {max-width: 1000px; margin: auto; padding: 20px;}
+        
+        header {background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 60px 20px; text-align: center; border-radius: 0 0 20px 20px;}
+        header h1 {font-size: 2.5em; margin-bottom: 10px;}
+        header p {font-size: 1.2em; opacity: 0.9;}
+        
+        section {background: white; margin: 30px 0; padding: 30px; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);}
+        h2 {color: #667eea; margin-bottom: 20px; border-bottom: 3px solid #667eea; padding-bottom: 10px;}
+        
+        .skills {display: flex; flex-wrap: wrap; gap: 10px;}
+        .skill {background: #667eea; color: white; padding: 8px 15px; border-radius: 20px; font-size: 0.9em;}
+        
+        .project {border-left: 4px solid #764ba2; padding: 15px 20px; margin: 15px 0; background: #f8f9fa; border-radius: 8px;}
+        .project h3 {color: #764ba2; margin-bottom: 8px;}
+        .project a {color: #667eea; text-decoration: none; font-weight: bold;}
+        .project a:hover {text-decoration: underline;}
+        
+        .contact a {color: #667eea; text-decoration: none; margin-right: 20px;}
+        
+        footer {text-align: center; padding: 20px; color: #777;}
+    </style>
+</head>
+<body>
+
+<header>
+    <div class="container">
+        <h1>Bindiya Sab 👋</h1>
+        <p>Mathematics Graduate | Aspiring Data Analyst</p>
+    </div>
+</header>
+
+<div class="container">
+
+    <section>
+        <h2>About Me</h2>
+        <p>I am a self-learning Data Analyst passionate about turning raw data into business insights. 
+        With a strong foundation in Mathematics, I enjoy working with SQL, Python, Excel, and Data Visualization tools to solve real-world problems.</p>
+    </section>
+
+    <section>
+        <h2>Technical Skills</h2>
+        <div class="skills">
+            <span class="skill">SQL</span>
+            <span class="skill">Python</span>
+            <span class="skill">Pandas</span>
+            <span class="skill">NumPy</span>
+            <span class="skill">Matplotlib</span>
+            <span class="skill">Seaborn</span>
+            <span class="skill">Excel</span>
+            <span class="skill">Power BI</span>
+            <span class="skill">Data Cleaning</span>
+            <span class="skill">EDA</span>
+            <span class="skill">Git & GitHub</span>
+        </div>
+    </section>
+
+    <section>
+        <h2>Projects</h2>
+        
+        <div class="project">
+            <h3>📊 Sales Data Analysis</h3>
+            <p><b>Tools:</b> Python, Pandas, Seaborn, Jupyter</p>
+            <p>Analyzed 10,000+ sales records to find top products and customer trends. 
+            Created dashboards and identified that 20% of products drive 80% of revenue.</p>
+            <a href="https://github.com/bindiyasab/Your-Project-Link" target="_blank">View Project on GitHub →</a>
+        </div>
+
+        <div class="project">
+            <h3>📱 BindiyaFlutter App</h3>
+            <p><b>Tools:</b> Flutter, Dart</p>
+            <p>Built a mobile application to practice UI/UX and state management. 
+            Improved problem-solving and coding skills.</p>
+            <a href="https://github.com/bindiyasab/bindiyaflutter" target="_blank">View on GitHub →</a>
+        </div>
+
+        <div class="project">
+            <h3>📈 Excel Dashboard</h3>
+            <p><b>Tools:</b> Excel, Pivot Tables, Charts</p>
+            <p>Created an interactive dashboard for mock sales data. Used VLOOKUP, PivotTables and conditional formatting to visualize KPIs.</p>
+            <a href="#" target="_blank">View Project →</a>
+        </div>
+
+    </section>
+
+    <section class="contact">
+        <h2>Contact Me</h2>
+        <p>Let's connect! I'm open to Data Analyst internships and entry-level roles.</p>
+        <p>
+            <a href="https://github.com/bindiyasab" target="_blank">GitHub</a>
+            <a href="https://linkedin.com/in/your-link" target="_blank">LinkedIn</a>
+            <a href="mailto:your.email@gmail.com">Email</a>
+        </p>
+    </section>
+
+</div>
+
+<footer>
+    <p>Made with ❤️ by Bindiya Sab | Hosted on GitHub Pages</p>
+</footer>
+
+</body>
+</html>
