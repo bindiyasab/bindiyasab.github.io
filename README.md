@@ -5,7 +5,7 @@ Data Analytics projects | SQL | Python | Pandas | Excel | EDA | Data Visualizati
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Bindiya Sab | Data Analyst</title>
+    <title>Bindiya k | Data Analyst</title>
     <style>
         body {font-family: Arial; max-width: 900px; margin: 40px auto; padding: 20px; background: #f4f7f9;}
         header {text-align: center; padding: 40px; background: #667eea; color: white; border-radius: 10px;}
@@ -25,10 +25,14 @@ Data Analytics projects | SQL | Python | Pandas | Excel | EDA | Data Visualizati
 <h2>About Me</h2>
 <p>I self-learn SQL, Python, Excel and Power BI. I love finding insights from data.</p>
 
+
 <h2>Skills</h2>
 <span class="skill">SQL</span>
 <span class="skill">Python</span>
+<span class="skill">numpy</span>
 <span class="skill">Pandas</span>
+<span class="skill">Matplotlib</span>
+<span class="skill">seaborn</span>
 <span class="skill">Excel</span>
 <span class="skill">Power BI</span>
 
@@ -46,7 +50,7 @@ Data Analytics projects | SQL | Python | Pandas | Excel | EDA | Data Visualizati
 </div>
 
 <h2>Contact</h2>
-<p>Email: your.email@gmail.com | GitHub: github.com/bindiyasab | LinkedIn: linkedin.com/in/yourprofile</p>
+<p>Email: your.email@gmail.com | GitHub: github.com/bindiyasab | LinkedIn:https://www.linkedin.com/in/bindiya-k-34842621a?utm_source=share_via&utm_content=profile&utm_medium=member_android/in/yourprofile</p>
 
 </body>
 </html>
