@@ -276,6 +276,12 @@
   </section>
 
   <section id="work">
+    <div class="section-head">
+      <div>
+        <div class="eyebrow">Project</div>
+        <h2>Projects</h2>
+      </div>
+    </div>
 
 <div class="project reveal">
       <div class="project-idx">01 —<br>dashboard</div>
