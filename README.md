@@ -300,7 +300,7 @@
     </div>
 
   <div class="project reveal">
-      <div class="project-idx">02 —<br>logic</div>
+      <div class="project-idx">02 logic</div>
       <div>
         <h3>Boolean Algebra &amp; Logical Reasoning Analysis</h3>
         <p>Applied Boolean algebra and computational logic to mathematical problem-solving, strengthening the analytical and logical reasoning skills used in data analysis.</p>
