@@ -284,7 +284,7 @@
     </div>
 
 <div class="project reveal">
-      <div class="project-idx">01 —<br>dashboard</div>
+      <div class="project-idx">01dashboard</div>
       <div>
         <h3>Retail Sales Performance Dashboard</h3>
         <p>Built an end-to-end analytics project covering 1,800+ retail orders: raw data ingestion, data cleaning, calculated fields, pivot summaries, and interactive dashboard design.</p>
@@ -300,7 +300,7 @@
     </div>
 
   <div class="project reveal">
-      <div class="project-idx">02 logic</div>
+      <div class="project-idx">02logic</div>
       <div>
         <h3>Boolean Algebra &amp; Logical Reasoning Analysis</h3>
         <p>Applied Boolean algebra and computational logic to mathematical problem-solving, strengthening the analytical and logical reasoning skills used in data analysis.</p>
@@ -312,7 +312,7 @@
     </div>
     
    <div class="project reveal">
-      <div class="project-idx">03 —<br>EDA</div>
+      <div class="project-idx">03EDA</div>
       <div>
         <h3>Zomato Restaurant Data Analysis</h3>
         <p>Performed EDA on Zomato dataset with 5,000+ restaurant records using Python. Analyzed the impact of restaurant type, online ordering, cost, and ratings on customer votes.</p>
