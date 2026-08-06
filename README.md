@@ -1,5 +1,5 @@
-# bindiyasab.github.io
-Data Analytics projects | SQL | Python | Pandas | Excel | EDA | Data Visualization
+
+Data Analytics projects | SQL | Python | Pandas | Excel Numpy|Matplotlib|Seaborn| EDA | Data Visualization
 
 
 <!DOCTYPE html>
@@ -50,7 +50,7 @@ Data Analytics projects | SQL | Python | Pandas | Excel | EDA | Data Visualizati
 </div>
 
 <h2>Contact</h2>
-<p>Email: your.email@gmail.com | GitHub: github.com/bindiyasab | LinkedIn:https://www.linkedin.com/in/bindiya-k-34842621a?utm_source=share_via&utm_content=profile&utm_medium=member_android/in/yourprofile</p>
+<p>Email: your.email@gmail.com | GitHub: github.com/bindiyasab | LinkedIn:https:bindiya-k-34842621a/in/yourprofile</p>
 
 </body>
 </html>
