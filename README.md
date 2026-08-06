@@ -1,5 +1,4 @@
 
-Data Analytics projects | SQL | Python | Pandas | Excel Numpy|Matplotlib|Seaborn| EDA | Data Visualization
 
 
 <!DOCTYPE html>
@@ -18,12 +17,12 @@ Data Analytics projects | SQL | Python | Pandas | Excel Numpy|Matplotlib|Seaborn
 <body>
 
 <header>
-    <h1>Hi, I'm Bindiya Sab</h1>
+    <h1>Hi, I'm Bindiya k</h1>
     <p>Mathematics Graduate | Aspiring Data Analyst</p>
 </header>
 
 <h2>About Me</h2>
-<p>I self-learn SQL, Python, Excel and Power BI. I love finding insights from data.</p>
+<p>I self-learn SQL, Python,Numpy, Pandas, Matplotlib, Seaborn, Excel and Power BI. I love finding insights from data.</p>
 
 
 <h2>Skills</h2>
