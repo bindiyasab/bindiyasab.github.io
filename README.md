@@ -310,7 +310,7 @@
         </a>
       </div>
     </div>
-    <div class="project reveal">
+    
     <div class="project reveal">
       <div class="project-idx">03 —<br>EDA</div>
       <div>
@@ -529,7 +529,11 @@
 </script>
 
 
+</section>  <!-- closes Experience section -->
 
+</main>
+</body>
+</html>
 
 
 
