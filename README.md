@@ -312,9 +312,7 @@
     </div>
     
    <div class="project reveal">
-      <div class="project-idx">03EDA</div>
-      <div>
-        <h3>Zomato Restaurant Data Analysis</h3>
+       <h3>Zomato Restaurant Data Analysis</h3>
         <p>Performed EDA on Zomato dataset with 5,000+ restaurant records using Python. Analyzed the impact of restaurant type, online ordering, cost, and ratings on customer votes.</p>
         <ul>
           <li>Built 8 visualizations including countplots, boxplots, and heatmaps to uncover trends in restaurant popularity and service models.</li>
