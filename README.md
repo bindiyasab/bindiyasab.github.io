@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -233,8 +233,9 @@
 <main class="wrap">
 
   <section class="hero" style="border-top:none;padding-top:80px;">
-    <div class="hero-kicker">Data Analyst · Mathematics Graduate</div>
-    <h1>Turning raw data into <em>clear business insight.</em></h1>
+    <h1>Bindiya K</h1>
+    <div class="hero-kicker" style="margin-top:16px;">Data Analyst · Mathematics Graduate</div>
+    <p class="hero-sub" style="font-family:'Fraunces',serif;font-style:italic;font-size:clamp(20px,2.6vw,26px);color:var(--purple);margin-top:14px;">Turning raw data into clear business insight.</p>
     <p class="hero-sub">I clean messy datasets, build the logic that makes sense of them, and design dashboards that drive decisions — grounded in SQL, Python, Excel, Power BI, and Tableau, with a mathematician's instinct for structure.</p>
   </section>
 
@@ -377,6 +378,7 @@
     </div>
   </section>
 
+ 
   <section id="contact-form-section">
     <div class="section-head">
       <div>
@@ -399,7 +401,8 @@
       </div>
       <div class="field">
         <label for="visitorSubject">Subject</label>
-        <input type="text" id="visitorSubject" name="visitorSubject" placeholder="Job opportunity, project inquiry...">
+        <input type="text" id="visitorSubject" 
+        name="visitorSubject" placeholder="Job opportunity, project inquiry...">
       </div>
       <div class="field full">
         <label for="visitorMessage">Message</label>
@@ -449,3 +452,18 @@
 
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+                
