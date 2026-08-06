@@ -50,7 +50,7 @@ Data Analytics projects | SQL | Python | Pandas | Excel Numpy|Matplotlib|Seaborn
 </div>
 
 <h2>Contact</h2>
-<p>Email: your.email@gmail.com | GitHub: github.com/bindiyasab | LinkedIn:https:bindiya-k-34842621a/in/yourprofile</p>
+<p>Email: your.email@gmail.com | GitHub: github.com/bindiyasab | LinkedIn:https:bindiya-k-34842621a/</p>
 
 </body>
 </html>
