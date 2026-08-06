@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -351,7 +351,7 @@
         <li>Built and preserved strong relationships with clients, achieving sales targets.</li>
       </ul>
     </div>
-  </section>
+  
 
   <section id="credentials">
     <div class="section-head">
@@ -505,7 +505,7 @@
     </div>
   </footer>
 
-</main>
+
 
 <script>
   const io = new IntersectionObserver((entries)=>{
@@ -528,8 +528,8 @@
   });
 </script>
 
-</body>
-</html>
+
+
 
 
 
