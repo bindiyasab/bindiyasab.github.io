@@ -311,6 +311,7 @@
       </div>
     </div>
     <div class="project reveal">
+    <div class="project reveal">
       <div class="project-idx">03 —<br>EDA</div>
       <div>
         <h3>Zomato Restaurant Data Analysis</h3>
@@ -324,8 +325,71 @@
         </a>
       </div>
     </div>
+    <div class="section-head">
+      <div>
+        <div class="eyebrow">Track Record</div>
+        <h2>Experience</h2>
+      </div>
+    </div>
+    <div class="xp-item reveal">
+      <div>
+        <div class="xp-role">Academic Counselor</div>
+        <div class="xp-org">Stock Market Kerala, Calicut, Kerala</div>
+      </div>
+      <div class="xp-date">Oct 2024 — Mar 2025</div>
+      <ul class="xp-list">
+        <li>Assisted students in developing academic plans, selecting courses, and navigating the educational system.</li>
+      </ul>
+    </div>
+    <div class="xp-item reveal">
+      <div>
+        <div class="xp-role">Relationship Officer</div>
+        <div class="xp-org">Jaytrade Group of Companies, Calicut</div>
+      </div>
+      <div class="xp-date">Sep 2023 — Jan 2024</div>
+      <ul class="xp-list">
+        <li>Built and preserved strong relationships with clients, achieving sales targets.</li>
+      </ul>
+    </div>
   </section>
 
+  <section id="credentials">
+    <div class="section-head">
+      <div>
+        <div class="eyebrow">Foundation</div>
+        <h2>Credentials</h2>
+      </div>
+    </div>
+    <div class="cred-grid">
+      <div class="cred-col reveal">
+        <h3>Education</h3>
+        <div class="cred-entry">
+          <div class="cred-title">Bachelor's Degree in Mathematics</div>
+          <div class="cred-meta">College of Applied Science, Calicut, Kerala — 2025</div>
+        </div>
+        <div class="cred-entry">
+          <div class="cred-title">Higher Secondary, Bio Maths</div>
+          <div class="cred-meta">BEM Girls Higher Secondary School, Calicut, Kerala — 2018</div>
+        </div>
+        <div class="cred-entry">
+          <div class="cred-title">Secondary Education, Maths &amp; Science</div>
+          <div class="cred-meta">BEM Girls Higher Secondary School, Calicut, Kerala — 2016</div>
+        </div>
+      </div>
+      <div class="cred-col reveal">
+        <h3>Certifications</h3>
+        <div class="cred-entry">
+          <div class="cred-title">Foundations of Data Analysis</div>
+          <div class="cred-meta">Coursera — data cleaning, visualization, spreadsheets, SQL basics, data-driven decision-making</div>
+        </div>
+        <h3 style="margin-top:36px;">Languages</h3>
+        <div class="lang-row">
+          <span class="chip">English</span><span class="chip">Malayalam</span><span class="chip">Hindi</span><span class="chip">Tamil</span>
+        </div>
+      </div>
+    </div>
+  </section>
+  
   <section id="experience">
     <div class="section-head">
       <div>
