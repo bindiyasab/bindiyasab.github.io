@@ -310,6 +310,20 @@
         </a>
       </div>
     </div>
+    <div class="project reveal">
+      <div class="project-idx">03 —<br>EDA</div>
+      <div>
+        <h3>Zomato Restaurant Data Analysis</h3>
+        <p>Performed EDA on Zomato dataset with 5,000+ restaurant records using Python. Analyzed the impact of restaurant type, online ordering, cost, and ratings on customer votes.</p>
+        <ul>
+          <li>Built 8 visualizations including countplots, boxplots, and heatmaps to uncover trends in restaurant popularity and service models.</li>
+        </ul>
+        <div class="project-tags"><span class="chip">Python</span><span class="chip">Pandas</span><span class="chip">Seaborn</span><span class="chip">Matplotlib</span><span class="chip">EDA</span></div>
+        <a href="https://github.com/bindiyasab/DATA-ANALYSIS-" class="view-link" target="_blank" rel="noopener">View project
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M17 7H7M17 7V17"/></svg>
+        </a>
+      </div>
+    </div>
   </section>
 
   <section id="experience">
