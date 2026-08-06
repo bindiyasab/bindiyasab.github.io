@@ -236,16 +236,6 @@
     <div class="hero-kicker">Data Analyst · Mathematics Graduate</div>
     <h1>Turning raw data into <em>clear business insight.</em></h1>
     <p class="hero-sub">I clean messy datasets, build the logic that makes sense of them, and design dashboards that drive decisions — grounded in SQL, Python, Excel, Power BI, and Tableau, with a mathematician's instinct for structure.</p>
-
-    <div class="kpi-strip reveal">
-      <div class="kpi-strip-head"><span><span class="dot"></span>retail_sales_dashboard — project summary</span><span>1,800+ orders processed</span></div>
-      <div class="kpi-grid">
-        <div class="kpi"><div class="kpi-num"><span class="accent">1,800+</span></div><div class="kpi-label">Orders Cleaned</div></div>
-        <div class="kpi"><div class="kpi-num">4</div><div class="kpi-label">Calculated Fields</div></div>
-        <div class="kpi"><div class="kpi-num">Top 10</div><div class="kpi-label">Products Ranked</div></div>
-        <div class="kpi"><div class="kpi-num">Auto</div><div class="kpi-label">Recalculating Summaries</div></div>
-      </div>
-    </div>
   </section>
 
   <section id="about">
@@ -398,4 +388,64 @@
       <div class="field">
         <label for="visitorName">Your name</label>
         <input type="text" id="visitorName" name="visitorName" placeholder="Jane Doe" required>
-      </div
+      </div>
+      <div class="field">
+        <label for="visitorEmail">Your email</label>
+        <input type="email" id="visitorEmail" name="visitorEmail" placeholder="jane@company.com" required>
+      </div>
+      <div class="field">
+        <label for="visitorPhone">Your number</label>
+        <input type="tel" id="visitorPhone" name="visitorPhone" placeholder="+91 XXXXX XXXXX">
+      </div>
+      <div class="field">
+        <label for="visitorSubject">Subject</label>
+        <input type="text" id="visitorSubject" name="visitorSubject" placeholder="Job opportunity, project inquiry...">
+      </div>
+      <div class="field full">
+        <label for="visitorMessage">Message</label>
+        <textarea id="visitorMessage" name="visitorMessage" placeholder="Tell me a bit about what you have in mind..."></textarea>
+      </div>
+      <button type="submit" class="submit-btn">Send message</button>
+      <div class="form-note" id="formNote">Thanks — this opens your email app with the message pre-filled to Bindiya.</div>
+    </form>
+  </section>
+
+  <footer id="contact">
+    <div class="wrap">
+      <div class="eyebrow">Get in touch</div>
+      <h2>Let's talk about your data.</h2>
+      <div class="contact-links">
+        <a href="mailto:bindiyasab1516@gmail.com">bindiyasab1516@gmail.com</a>
+        <a href="tel:8590629313">8590629313</a>
+        <a href="https://linkedin.com/in/bindiya-k-34842621a" target="_blank" rel="noopener">linkedin.com/in/bindiya-k-34842621a</a>
+        <span class="plain">Beypore, Calicut, Kerala</span>
+      </div>
+      <div class="foot-note">© 2026 Bindiya K. Built with data-driven precision.</div>
+    </div>
+  </footer>
+
+</main>
+
+<script>
+  const io = new IntersectionObserver((entries)=>{
+    entries.forEach(e=>{ if(e.isIntersecting){ e.target.classList.add('in'); io.unobserve(e.target);} });
+  },{threshold:0.15});
+  document.querySelectorAll('.reveal').forEach(el=>io.observe(el));
+
+  const form = document.getElementById('reachForm');
+  const note = document.getElementById('formNote');
+  form.addEventListener('submit', function(e){
+    e.preventDefault();
+    const name = document.getElementById('visitorName').value;
+    const email = document.getElementById('visitorEmail').value;
+    const phone = document.getElementById('visitorPhone').value;
+    const subject = document.getElementById('visitorSubject').value || 'Portfolio inquiry';
+    const message = document.getElementById('visitorMessage').value;
+    const body = `Name: ${name}\nEmail: ${email}\nPhone: ${phone}\n\n${message}`;
+    window.location.href = `mailto:bindiyasab1516@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+    note.classList.add('show');
+  });
+</script>
+
+</body>
+</html>
