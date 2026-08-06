@@ -276,14 +276,8 @@
   </section>
 
   <section id="work">
-    <div class="section-head">
-      <div>
-        <div class="eyebrow">Selected Work</div>
-        <h2>Projects</h2>
-      </div>
-    </div>
 
-    <div class="project reveal">
+<div class="project reveal">
       <div class="project-idx">01 —<br>dashboard</div>
       <div>
         <h3>Retail Sales Performance Dashboard</h3>
@@ -299,7 +293,7 @@
       </div>
     </div>
 
-    <div class="project reveal">
+  <div class="project reveal">
       <div class="project-idx">02 —<br>logic</div>
       <div>
         <h3>Boolean Algebra &amp; Logical Reasoning Analysis</h3>
@@ -311,7 +305,7 @@
       </div>
     </div>
     
-    <div class="project reveal">
+   <div class="project reveal">
       <div class="project-idx">03 —<br>EDA</div>
       <div>
         <h3>Zomato Restaurant Data Analysis</h3>
