@@ -296,9 +296,6 @@
         <a href="https://github.com/bindiyasab/Retail-sales-performance-dashboard-/blob/main/Retail_Sales_Dashboard_Project.pptx" class="view-link" target="_blank" rel="noopener">📊 View Excel Files on Drive
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M17 7H7M17 7V17"/></svg>
         </a>
-        <a href="https://github.com/bindiyasab/Retail-sales-performance-dashboard-/blob/main/Retail_Sales_Dashboard_Project.pptx" class="view-link" target="_blank" rel="noopener" style="margin-left:10px;">📁 View Presentation on GitHub
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M17 7H7M17 7V17"/></svg>
-        </a>
       </div>
     </div>
 
