@@ -299,20 +299,8 @@
       </div>
     </div>
 
-   <div class="project reveal">
-      <div class="project-idx">02 —<br>logic</div>
-      <div>
-        <h3>Boolean Algebra &amp; Logical Reasoning Analysis</h3>
-        <p>Applied Boolean algebra and computational logic to mathematical problem-solving, strengthening the analytical and logical reasoning skills used in data analysis.</p>
-        <div class="project-tags"><span class="chip">Logical Operators</span><span class="chip">Truth Tables</span><span class="chip">Conditional Logic</span></div>
-        <a href="#" class="view-link">View project
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M17 7H7M17 7V17"/></svg>
-        </a>
-      </div>
-    </div>
-
-   <div class="project reveal">
-      <div class="project-idx">03 —<br>EDA</div>
+<div class="project reveal">
+      <div class="project-idx">02 —<br>EDA</div>
       <div>
         <h3>Zomato Restaurant Data Analysis</h3>
         <p>Performed EDA on Zomato dataset with 5,000+ restaurant records using Python. Analyzed the impact of restaurant type, online ordering, cost, and ratings on customer votes.</p>
