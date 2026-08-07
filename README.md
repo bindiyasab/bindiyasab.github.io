@@ -284,7 +284,7 @@
     </div>
 
 <div class="project reveal">
-      <div class="project-idx">01dashboard</div>
+      <div class="project-idx">01 —<br>dashboard</div>
       <div>
         <h3>Retail Sales Performance Dashboard</h3>
         <p>Built an end-to-end analytics project covering 1,800+ retail orders: raw data ingestion, data cleaning, calculated fields, pivot summaries, and interactive dashboard design.</p>
@@ -293,12 +293,12 @@
           <li>Built dynamic summaries using SUMIFS/AVERAGEIFS to analyze sales by Region, Month, and Top 10 Products, auto-recalculating as source data changed.</li>
         </ul>
         <div class="project-tags"><span class="chip">Excel</span><span class="chip">SUMIFS</span><span class="chip">Pivot Tables</span><span class="chip">KPI Design</span></div>
-        <a href="#" class="view-link">View project
+        <a href="https://drive.google.com/drive/folders/15Aub_NVyUHNcyfrEDaqIfROHSV1cmv6n" class="view-link" target="_blank" rel="noopener">📊 View Excel Files on Drive
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M17 7H7M17 7V17"/></svg>
         </a>
       </div>
     </div>
-
+    
   <div class="project reveal">
       <div class="project-idx">02logic</div>
       <div>
