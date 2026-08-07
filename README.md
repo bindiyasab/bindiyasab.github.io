@@ -1,4 +1,4 @@
-
+    <!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -278,12 +278,12 @@
   <section id="work">
     <div class="section-head">
       <div>
-        <div class="eyebrow">Project</div>
+        <div class="eyebrow">Selected Work</div>
         <h2>Projects</h2>
       </div>
     </div>
 
-<div class="project reveal">
+   <div class="project reveal">
       <div class="project-idx">01 —<br>dashboard</div>
       <div>
         <h3>Retail Sales Performance Dashboard</h3>
@@ -293,14 +293,17 @@
           <li>Built dynamic summaries using SUMIFS/AVERAGEIFS to analyze sales by Region, Month, and Top 10 Products, auto-recalculating as source data changed.</li>
         </ul>
         <div class="project-tags"><span class="chip">Excel</span><span class="chip">SUMIFS</span><span class="chip">Pivot Tables</span><span class="chip">KPI Design</span></div>
-        <a href="https://github.com/bindiyasab/Retail-sales-performance-dashboard-/blob/main/Retail_Sales_Dashboard_Project.pptx" class="view-link" target="_blank" rel="noopener">View Excel Files on Drive
+        <a href="https://github.com/bindiyasab/Retail-sales-performance-dashboard-/blob/main/Retail_Sales_Dashboard_Project.pptx" class="view-link" target="_blank" rel="noopener">📊 View Excel Files on Drive
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M17 7H7M17 7V17"/></svg>
+        </a>
+        <a href="https://github.com/bindiyasab/Retail-sales-performance-dashboard-/blob/main/Retail_Sales_Dashboard_Project.pptx" class="view-link" target="_blank" rel="noopener" style="margin-left:10px;">📁 View Presentation on GitHub
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M17 7H7M17 7V17"/></svg>
         </a>
       </div>
     </div>
-    
-  <div class="project reveal">
-      <div class="project-idx">02logic</div>
+
+   <div class="project reveal">
+      <div class="project-idx">02 —<br>logic</div>
       <div>
         <h3>Boolean Algebra &amp; Logical Reasoning Analysis</h3>
         <p>Applied Boolean algebra and computational logic to mathematical problem-solving, strengthening the analytical and logical reasoning skills used in data analysis.</p>
@@ -310,9 +313,11 @@
         </a>
       </div>
     </div>
-    
+
    <div class="project reveal">
-       <h3>Zomato Restaurant Data Analysis</h3>
+      <div class="project-idx">03 —<br>EDA</div>
+      <div>
+        <h3>Zomato Restaurant Data Analysis</h3>
         <p>Performed EDA on Zomato dataset with 5,000+ restaurant records using Python. Analyzed the impact of restaurant type, online ordering, cost, and ratings on customer votes.</p>
         <ul>
           <li>Built 8 visualizations including countplots, boxplots, and heatmaps to uncover trends in restaurant popularity and service models.</li>
@@ -349,72 +354,6 @@
         <li>Built and preserved strong relationships with clients, achieving sales targets.</li>
       </ul>
     </div>
-  
-
-  <section id="credentials">
-    <div class="section-head">
-      <div>
-        <div class="eyebrow">Foundation</div>
-        <h2>Credentials</h2>
-      </div>
-    </div>
-    <div class="cred-grid">
-      <div class="cred-col reveal">
-        <h3>Education</h3>
-        <div class="cred-entry">
-          <div class="cred-title">Bachelor's Degree in Mathematics</div>
-          <div class="cred-meta">College of Applied Science, Calicut, Kerala — 2025</div>
-        </div>
-        <div class="cred-entry">
-          <div class="cred-title">Higher Secondary, Bio Maths</div>
-          <div class="cred-meta">BEM Girls Higher Secondary School, Calicut, Kerala — 2018</div>
-        </div>
-        <div class="cred-entry">
-          <div class="cred-title">Secondary Education, Maths &amp; Science</div>
-          <div class="cred-meta">BEM Girls Higher Secondary School, Calicut, Kerala — 2016</div>
-        </div>
-      </div>
-      <div class="cred-col reveal">
-        <h3>Certifications</h3>
-        <div class="cred-entry">
-          <div class="cred-title">Foundations of Data Analysis</div>
-          <div class="cred-meta">Coursera — data cleaning, visualization, spreadsheets, SQL basics, data-driven decision-making</div>
-        </div>
-        <h3 style="margin-top:36px;">Languages</h3>
-        <div class="lang-row">
-          <span class="chip">English</span><span class="chip">Malayalam</span><span class="chip">Hindi</span><span class="chip">Tamil</span>
-        </div>
-      </div>
-    </div>
-  </section>
-  
-  <section id="experience">
-    <div class="section-head">
-      <div>
-        <div class="eyebrow">Track Record</div>
-        <h2>Experience</h2>
-      </div>
-    </div>
-    <div class="xp-item reveal">
-      <div>
-        <div class="xp-role">Academic Counselor</div>
-        <div class="xp-org">Stock Market Kerala, Calicut, Kerala</div>
-      </div>
-      <div class="xp-date">Oct 2024 — Mar 2025</div>
-      <ul class="xp-list">
-        <li>Assisted students in developing academic plans, selecting courses, and navigating the educational system.</li>
-      </ul>
-    </div>
-    <div class="xp-item reveal">
-      <div>
-        <div class="xp-role">Relationship Officer</div>
-        <div class="xp-org">Jaytrade Group of Companies, Calicut</div>
-      </div>
-      <div class="xp-date">Sep 2023 — Jan 2024</div>
-      <ul class="xp-list">
-        <li>Built and preserved strong relationships with clients, achieving sales targets.</li>
-      </ul>
-    </div>
   </section>
 
   <section id="credentials">
@@ -446,7 +385,7 @@
           <div class="cred-title">Foundations of Data Analysis</div>
           <div class="cred-meta">Coursera — data cleaning, visualization, spreadsheets, SQL basics, data-driven decision-making</div>
         </div>
-        <h3 style="margin-top:36px;">Languages</h3>
+       <h3 style="margin-top:36px;">Languages</h3>
         <div class="lang-row">
           <span class="chip">English</span><span class="chip">Malayalam</span><span class="chip">Hindi</span><span class="chip">Tamil</span>
         </div>
@@ -454,7 +393,6 @@
     </div>
   </section>
 
- 
   <section id="contact-form-section">
     <div class="section-head">
       <div>
@@ -477,8 +415,7 @@
       </div>
       <div class="field">
         <label for="visitorSubject">Subject</label>
-        <input type="text" id="visitorSubject" 
-        name="visitorSubject" placeholder="Job opportunity, project inquiry...">
+        <input type="text" id="visitorSubject" name="visitorSubject" placeholder="Job opportunity, project inquiry...">
       </div>
       <div class="field full">
         <label for="visitorMessage">Message</label>
@@ -503,7 +440,7 @@
     </div>
   </footer>
 
-
+</main>
 
 <script>
   const io = new IntersectionObserver((entries)=>{
@@ -526,10 +463,6 @@
   });
 </script>
 
-
-</section>  <!-- closes Experience section -->
-
-</main>
 </body>
 </html>
 
@@ -545,5 +478,6 @@
 
 
 
+
         
-                
+            
