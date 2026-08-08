@@ -293,7 +293,7 @@
           <li>Built dynamic summaries using SUMIFS/AVERAGEIFS to analyze sales by Region, Month, and Top 10 Products, auto-recalculating as source data changed.</li>
         </ul>
         <div class="project-tags"><span class="chip">Excel</span><span class="chip">SUMIFS</span><span class="chip">Pivot Tables</span><span class="chip">KPI Design</span></div>
-        <a href="https://github.com/bindiyasab/Retail-sales-performance-dashboard-/blob/main/Retail_Sales_Dashboard_Project.pptx" class="view-link" target="_blank" rel="noopener">📊 View Excel Files on Drive
+        <a href="https://github.com/bindiyasab/Retail-sales-performance-dashboard-" class="view-link" target="_blank" rel="noopener">View project
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M17 7H7M17 7V17"/></svg>
         </a>
       </div>
