@@ -292,8 +292,12 @@
           <li>Cleaned and standardized raw sales data (removed duplicates, fixed blanks, standardized text) and engineered calculated fields including Revenue, Cost, Profit, and Margin %.</li>
           <li>Built dynamic summaries using SUMIFS/AVERAGEIFS to analyze sales by Region, Month, and Top 10 Products, auto-recalculating as source data changed.</li>
         </ul>
-        <div class="project-tags"><span class="chip">Excel</span><span class="chip">SUMIFS</span><span class="chip">Pivot Tables</span><span class="chip">KPI Design</span></div>
-    <a      href="https://docs.google.com/spreadsheets/d/1es3ee6Rd6-EjJf8yKGYFeiu669EoBLSB/edit?usp=drivesdk&ouid=112472856513964981479&rtpof=true&sd=true" class="view-link" target="_blank" rel="noopener">View project
+        <div class="project-tags"><span 
+class="chip">Excel</span><span 
+class="chip">SUMIFS</span><span 
+class="chip">Pivot Tables</span><span 
+class="chip">KPI Design</span></div>
+    <a      href="https://docs.google.com/spreadsheets/d/1es3ee6Rd6-EjJf8yKGYFeiu669EoBLSB/editusp=drivesdk&ouid=112472856513964981479&rtpof=true&sd=true" class="view-link" target="_blank" rel="noopener">View project
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M17 7H7M17 7V17"/></svg>
         </a>
       </div>
@@ -312,7 +316,7 @@
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M17 7H7M17 7V17"/></svg>
         </a>
       </div>
-    </div>
+</div>
     <div class="section-head">
       <div>
         <div class="eyebrow">Track Record</div>
