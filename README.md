@@ -335,14 +335,6 @@ class="chip">KPI Design</span></div>
     </div>
     <div class="xp-item reveal">
       <div>
-        <div class="xp-role">Relationship Officer</div>
-        <div class="xp-org">Jaytrade Group of Companies, Calicut</div>
-      </div>
-      <div class="xp-date">Sep 2023 — Jan 2024</div>
-      <ul class="xp-list">
-        <li>Built and preserved strong relationships with clients, achieving sales targets.</li>
-      </ul>
-    </div>
   </section>
 
   <section id="credentials">
